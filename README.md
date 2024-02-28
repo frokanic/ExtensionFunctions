@@ -1,4 +1,4 @@
-# 🛠️ Extension Functions 🔥
+# 🛠️ Extension Functions 
 This repo is a personal collection of extension functions. The goal is to both kill some time, when bored, as well as have a collection of ready to use functions, that I can use if and as needed, in my day to day work.
 
 ## Got Ideas? Let's Collaborate! 🤝
